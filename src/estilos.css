@@ -1,0 +1,37 @@
+
+body{
+    background-color:bisque;    
+}
+
+h1{
+    color: green;
+}
+
+h2{
+    color: green;
+}
+
+.home{
+    text-align: center;
+}
+
+.Catalogo{
+    text-align: center;
+}
+
+.Prenda{
+    text-align: center;
+    align-items: center;
+}
+
+.tbEstilo{
+    border-color: blueviolet;
+    background-color: white;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#volver{
+    text-align: center;
+}
