@@ -26,6 +26,9 @@ a{
 th{
     border-style: solid;
     border-color: #A8E672;
+    padding: 1%;
+    border-width: thin;
+    width: 2%;
 }
 
 /*Clases*/
@@ -76,7 +79,11 @@ th{
 
 .tdPrenda{
     border-style: solid;
+    border-width: thin;
     border-color: #A8E672;
+    padding: 1%;
+    font-weight: lighter;
+    width: 2%;
 }
 
 
