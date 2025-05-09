@@ -1,4 +1,5 @@
 
+/*Etiquetas HTML*/
 body{
     background-color: #373636; /*#A8E672;*/
     font-family: "Orbitron", sans-serif;
@@ -18,12 +19,19 @@ h2{
     text-align: center;
 }
 
-#inicial{
-    padding-top: 5%;
+a{
+    color: #A8E672;   
 }
 
+th{
+    border-style: solid;
+    border-color: #A8E672;
+}
+
+/*Clases*/
 .home{
     text-align: center;
+    margin: auto;
 }
 
 .Catalogo{
@@ -36,14 +44,43 @@ h2{
 }
 
 .tbEstilo{
-    border-color: #A8E672;
+    border-spacing: 5px;
     /*background-color: white;*/
     color: #A8E672;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     font-weight: bold;
 }
 
-#volver{
+.volver{
     text-align: center;
+    border-style: solid;
+    border-color: #A8E672;
+    width: 10%;    
+    background-color: black;
+    margin: auto;
+    margin-top: 2%;
+}
+
+.precio{
+    padding-bottom: 2%;
+}
+
+.tbEstiloPrenda{
+    border-spacing: 5px;
+    border-style: solid;
+    margin: auto;
+    margin-bottom: 1%;
+    color: #A8E672;
+    font-weight: bold;
+}
+
+.tdPrenda{
+    border-style: solid;
+    border-color: #A8E672;
+}
+
+
+/*Id's*/
+#inicial{
+    padding-top: 5%;
 }
