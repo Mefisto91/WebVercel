@@ -36,9 +36,9 @@ h2{
 }
 
 .tbEstilo{
-    border-color: blueviolet;
-    background-color: white;
-    color: black;
+    border-color: #A8E672;
+    /*background-color: white;*/
+    color: #A8E672;
     margin-left: auto;
     margin-right: auto;
     font-weight: bold;
