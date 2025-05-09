@@ -1,14 +1,25 @@
 
 body{
-    background-color: #A8E672;
+    background-color: black; /*#A8E672;*/
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    /*font-weight: 400;*/
+    font-style:normal;
 }
 
 h1{
-    color: green;
+    color: #A8E672;
+    text-align: center;
 }
 
 h2{
-    color: green;
+    color: #A8E672;
+    font-weight: lighter;
+    text-align: center;
+}
+
+#inicial{
+    padding-top: 5%;
 }
 
 .home{
@@ -26,7 +37,7 @@ h2{
 
 .tbEstilo{
     border-color: blueviolet;
-    background-color: #A8E672;
+    background-color: white;
     color: black;
     margin-left: auto;
     margin-right: auto;
