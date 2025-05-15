@@ -1,6 +1,6 @@
 
 /*Etiquetas HTML*/
-body{
+.myBody{
     background-color: #373636; /*#A8E672;*/
     font-family: "Orbitron", sans-serif;
     font-optical-sizing: auto;
@@ -8,18 +8,18 @@ body{
     font-style:normal;
 }
 
-h1{
+.myH1{
     color: #A8E672;
     text-align: center;
 }
 
-h2{
+.myH2{
     color: #A8E672;
     font-weight: lighter;
     text-align: center;
 }
 
-a{
+.mya{
     color: #A8E672;   
 }
 
